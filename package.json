@@ -1,0 +1,22 @@
+{
+  "name": "lab4-data-modeling",
+  "version": "1.0.0",
+  "description": "lab4",
+  "main": "memory.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BGElliott206/lab4-data-modeling.git"
+  },
+  "author": "Brad Elliott",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BGElliott206/lab4-data-modeling/issues"
+  },
+  "homepage": "https://github.com/BGElliott206/lab4-data-modeling#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
